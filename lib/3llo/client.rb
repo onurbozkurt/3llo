@@ -1,3 +1,6 @@
+require 'uri'
+require 'net/http'
+
 module Tr3llo
   module Client
     extend self

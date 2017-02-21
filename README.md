@@ -5,9 +5,9 @@ leaving your awesome terminal.
 
 [![video](intro.gif)](https://asciinema.org/a/eu1q5el69kub7si79dubeyfn6)
 
-3llo is inspired by the awesome
+3llo was inspired by the awesome
 [rainbowstream](https://github.com/DTVD/rainbowstream) and
-[facy](https://github.com/huydx/facy)
+[facy](https://github.com/huydx/facy).
 
 ## Why this named 3llo?
 
